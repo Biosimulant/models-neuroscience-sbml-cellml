@@ -1,0 +1,35 @@
+schema_version: '2.0'
+title: 'Neuroscience: Model247713247713Model'
+description: A multiscale approach to analyze circadian rhythms (Vasalou & Henson,
+  2010) (CellML)
+standard: other
+tags:
+- neuroscience
+- cellml
+- opensourcebrain
+- faithful
+authors:
+- Biosimulant Team
+- Open Source Brain
+upstream:
+  id: opensourcebrain:247713
+  source_db: opensourcebrain
+  source_id: '247713'
+  standard: cellml
+  original_url: https://github.com/OpenSourceBrain/247713
+  download_url: https://github.com/OpenSourceBrain/247713.git
+  license: ''
+bsim:
+  entrypoint: src.model_247713_247713_model:Model247713247713Model
+  init_kwargs:
+    model_path: data/repo
+  min_dt: 0.01
+runtime:
+  python_version: '3.12'
+  dependencies:
+    packages:
+    - libcellml==0.5.0
+    - numpy==1.26.4
+io:
+  outputs:
+  - state
