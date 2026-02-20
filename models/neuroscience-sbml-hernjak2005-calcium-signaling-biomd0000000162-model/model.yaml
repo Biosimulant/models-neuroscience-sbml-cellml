@@ -24,7 +24,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/BIOMD0000000162
   download_url: https://www.ebi.ac.uk/biomodels/model/download/BIOMD0000000162?filename=BIOMD0000000162_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.hernjak2005_calcium_signaling_biomd0000000162_model:Hernjak2005CalciumSignalingBiomd0000000162Model
   init_kwargs:
     model_path: data/BIOMD0000000162.xml

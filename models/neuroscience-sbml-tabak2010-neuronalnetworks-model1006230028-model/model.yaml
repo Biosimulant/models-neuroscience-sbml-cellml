@@ -22,7 +22,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/MODEL1006230028
   download_url: https://www.ebi.ac.uk/biomodels/model/download/MODEL1006230028?filename=MODEL1006230028_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.tabak2010_neuronalnetworks_model1006230028_model:Tabak2010NeuronalnetworksModel1006230028Model
   init_kwargs:
     model_path: data/MODEL1006230028.xml

@@ -20,7 +20,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/BIOMD0000000346
   download_url: https://www.ebi.ac.uk/biomodels/model/download/BIOMD0000000346?filename=BIOMD0000000346_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.fitzhugh1961_nervemembrane_biomd0000000346_model:Fitzhugh1961NervemembraneBiomd0000000346Model
   init_kwargs:
     model_path: data/BIOMD0000000346.xml

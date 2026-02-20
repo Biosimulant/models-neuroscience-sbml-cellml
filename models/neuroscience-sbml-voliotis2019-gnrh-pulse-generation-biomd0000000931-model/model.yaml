@@ -24,7 +24,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/BIOMD0000000931
   download_url: https://www.ebi.ac.uk/biomodels/model/download/BIOMD0000000931?filename=Voliotis2019.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.voliotis2019_gnrh_pulse_generation_biomd0000000931_model:Voliotis2019GnrhPulseGenerationBiomd0000000931Model
   init_kwargs:
     model_path: data/BIOMD0000000931.xml

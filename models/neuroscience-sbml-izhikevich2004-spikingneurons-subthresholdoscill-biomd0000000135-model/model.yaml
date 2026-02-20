@@ -20,7 +20,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/BIOMD0000000135
   download_url: https://www.ebi.ac.uk/biomodels/model/download/BIOMD0000000135?filename=BIOMD0000000135_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.izhikevich2004_spikingneurons_subthresholdoscill_biomd0000000135_model:Izhikevich2004SpikingneuronsSubthresholdoscillBiomd0000000135Model
   init_kwargs:
     model_path: data/BIOMD0000000135.xml

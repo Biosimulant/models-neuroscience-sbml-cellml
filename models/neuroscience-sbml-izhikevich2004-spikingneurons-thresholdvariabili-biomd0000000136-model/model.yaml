@@ -20,7 +20,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/BIOMD0000000136
   download_url: https://www.ebi.ac.uk/biomodels/model/download/BIOMD0000000136?filename=BIOMD0000000136_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.izhikevich2004_spikingneurons_thresholdvariabili_biomd0000000136_model:Izhikevich2004SpikingneuronsThresholdvariabiliBiomd0000000136Model
   init_kwargs:
     model_path: data/BIOMD0000000136.xml

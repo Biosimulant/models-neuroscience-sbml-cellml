@@ -21,7 +21,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/MODEL0912153452
   download_url: https://www.ebi.ac.uk/biomodels/model/download/MODEL0912153452?filename=MODEL0912153452_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.faber2000_lrmodel_cardiacmyocytes_model0912153452_model:Faber2000LrmodelCardiacmyocytesModel0912153452Model
   init_kwargs:
     model_path: data/MODEL0912153452.xml

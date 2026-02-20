@@ -24,7 +24,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/BIOMD0000000437
   download_url: https://www.ebi.ac.uk/biomodels/model/download/BIOMD0000000437?filename=BIOMD0000000437_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.tseng2012_circadian_clock_of_n_crassa_biomd0000000437_model:Tseng2012CircadianClockOfNCrassaBiomd0000000437Model
   init_kwargs:
     model_path: data/BIOMD0000000437.xml

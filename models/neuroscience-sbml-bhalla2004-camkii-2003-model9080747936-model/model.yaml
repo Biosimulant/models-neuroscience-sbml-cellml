@@ -20,7 +20,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/MODEL9080747936
   download_url: https://www.ebi.ac.uk/biomodels/model/download/MODEL9080747936?filename=MODEL9080747936_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.bhalla2004_camkii_2003_model9080747936_model:Bhalla2004Camkii2003Model9080747936Model
   init_kwargs:
     model_path: data/MODEL9080747936.xml

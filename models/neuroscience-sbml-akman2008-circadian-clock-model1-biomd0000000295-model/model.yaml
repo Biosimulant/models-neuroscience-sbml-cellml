@@ -24,7 +24,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/BIOMD0000000295
   download_url: https://www.ebi.ac.uk/biomodels/model/download/BIOMD0000000295?filename=BIOMD0000000295_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.akman2008_circadian_clock_model1_biomd0000000295_model:Akman2008CircadianClockModel1Biomd0000000295Model
   init_kwargs:
     model_path: data/BIOMD0000000295.xml

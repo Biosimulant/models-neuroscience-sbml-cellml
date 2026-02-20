@@ -23,7 +23,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/MODEL1006230015
   download_url: https://www.ebi.ac.uk/biomodels/model/download/MODEL1006230015?filename=MODEL1006230015_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.lindblad1996_actionpotential_atrialmyocyte_model1006230015_model:Lindblad1996ActionpotentialAtrialmyocyteModel1006230015Model
   init_kwargs:
     model_path: data/MODEL1006230015.xml

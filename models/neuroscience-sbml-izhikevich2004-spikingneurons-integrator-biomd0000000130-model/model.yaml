@@ -20,7 +20,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/BIOMD0000000130
   download_url: https://www.ebi.ac.uk/biomodels/model/download/BIOMD0000000130?filename=BIOMD0000000130_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.izhikevich2004_spikingneurons_integrator_biomd0000000130_model:Izhikevich2004SpikingneuronsIntegratorBiomd0000000130Model
   init_kwargs:
     model_path: data/BIOMD0000000130.xml

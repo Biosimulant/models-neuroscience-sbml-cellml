@@ -22,7 +22,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/MODEL7891585309
   download_url: https://www.ebi.ac.uk/biomodels/model/download/MODEL7891585309?filename=MODEL7891585309_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.butera1999_bursting_pacemaker_neuron_model_1_model7891585309_model:Butera1999BurstingPacemakerNeuronModel1Model7891585309Model
   init_kwargs:
     model_path: data/MODEL7891585309.xml

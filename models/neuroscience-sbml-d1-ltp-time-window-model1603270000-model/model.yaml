@@ -22,7 +22,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/MODEL1603270000
   download_url: https://www.ebi.ac.uk/biomodels/model/download/MODEL1603270000?filename=MODEL1603270000_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.d1_ltp_time_window_model1603270000_model:D1LtpTimeWindowModel1603270000Model
   init_kwargs:
     model_path: data/MODEL1603270000.xml

@@ -21,7 +21,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/BIOMD0000000246
   download_url: https://www.ebi.ac.uk/biomodels/model/download/BIOMD0000000246?filename=BIOMD0000000246_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.vasalou2010_pacemaker_neuron_scn_biomd0000000246_model:Vasalou2010PacemakerNeuronScnBiomd0000000246Model
   init_kwargs:
     model_path: data/BIOMD0000000246.xml

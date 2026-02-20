@@ -22,7 +22,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/MODEL1006230024
   download_url: https://www.ebi.ac.uk/biomodels/model/download/MODEL1006230024?filename=MODEL1006230024_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.bertram2002_gprotein_synapticsignal_model1006230024_model:Bertram2002GproteinSynapticsignalModel1006230024Model
   init_kwargs:
     model_path: data/MODEL1006230024.xml

@@ -23,7 +23,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/BIOMD0000000199
   download_url: https://www.ebi.ac.uk/biomodels/model/download/BIOMD0000000199?filename=BIOMD0000000199_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.santolini2001_nnos_mechanism_regulation_biomd0000000199_model:Santolini2001NnosMechanismRegulationBiomd0000000199Model
   init_kwargs:
     model_path: data/BIOMD0000000199.xml

@@ -23,7 +23,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/MODEL2103050003
   download_url: https://www.ebi.ac.uk/biomodels/model/download/MODEL2103050003?filename=hh-modelica-1.1.0.zip
   license: CC0
-bsim:
+biosim:
   entrypoint: src.sch_lzel2020_modular_modelica_implementation_of_model2103050003_model:SchLzel2020ModularModelicaImplementationOfModel2103050003Model
   init_kwargs:
     model_path: data/MODEL2103050003.xml

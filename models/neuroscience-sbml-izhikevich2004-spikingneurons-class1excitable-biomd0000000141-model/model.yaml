@@ -20,7 +20,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/BIOMD0000000141
   download_url: https://www.ebi.ac.uk/biomodels/model/download/BIOMD0000000141?filename=BIOMD0000000141_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.izhikevich2004_spikingneurons_class1excitable_biomd0000000141_model:Izhikevich2004SpikingneuronsClass1excitableBiomd0000000141Model
   init_kwargs:
     model_path: data/BIOMD0000000141.xml

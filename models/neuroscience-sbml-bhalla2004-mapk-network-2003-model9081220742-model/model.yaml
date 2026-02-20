@@ -20,7 +20,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/MODEL9081220742
   download_url: https://www.ebi.ac.uk/biomodels/model/download/MODEL9081220742?filename=MODEL9081220742_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.bhalla2004_mapk_network_2003_model9081220742_model:Bhalla2004MapkNetwork2003Model9081220742Model
   init_kwargs:
     model_path: data/MODEL9081220742.xml

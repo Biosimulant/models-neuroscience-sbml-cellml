@@ -20,7 +20,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/MODEL0912388235
   download_url: https://www.ebi.ac.uk/biomodels/model/download/MODEL0912388235?filename=MODEL0912388235_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.endresen1997_sinoatrialactionpotential_model0912388235_model:Endresen1997SinoatrialactionpotentialModel0912388235Model
   init_kwargs:
     model_path: data/MODEL0912388235.xml

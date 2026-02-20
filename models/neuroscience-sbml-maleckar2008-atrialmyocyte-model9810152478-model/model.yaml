@@ -23,7 +23,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/MODEL9810152478
   download_url: https://www.ebi.ac.uk/biomodels/model/download/MODEL9810152478?filename=MODEL9810152478_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.maleckar2008_atrialmyocyte_model9810152478_model:Maleckar2008AtrialmyocyteModel9810152478Model
   init_kwargs:
     model_path: data/MODEL9810152478.xml

@@ -20,7 +20,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/BIOMD0000000132
   download_url: https://www.ebi.ac.uk/biomodels/model/download/BIOMD0000000132?filename=BIOMD0000000132_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.izhikevich2004_spikingneurons_reboundspike_biomd0000000132_model:Izhikevich2004SpikingneuronsReboundspikeBiomd0000000132Model
   init_kwargs:
     model_path: data/BIOMD0000000132.xml

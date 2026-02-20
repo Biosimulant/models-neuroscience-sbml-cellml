@@ -23,7 +23,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/BIOMD0000000692
   download_url: https://www.ebi.ac.uk/biomodels/model/download/BIOMD0000000692?filename=BIOMD0000000692_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.phillips2003_the_mechanism_of_ras_gtpase_activat_biomd0000000692_model:Phillips2003TheMechanismOfRasGtpaseActivatBiomd0000000692Model
   init_kwargs:
     model_path: data/BIOMD0000000692.xml

@@ -12,13 +12,13 @@ from pathlib import Path
 from typing import Any, Dict, Optional, Set, TYPE_CHECKING
 
 if TYPE_CHECKING:  # pragma: no cover - typing only
-    from bsim import BioWorld
+    from biosim import BioWorld
 
-import bsim
-from bsim.signals import BioSignal, SignalMetadata
+import biosim
+from biosim.signals import BioSignal, SignalMetadata
 
 
-class SbmlScholzel2020ModularModelicaImplementationOfTheHodgkin(bsim.BioModule):
+class SbmlScholzel2020ModularModelicaImplementationOfTheHodgkin(biosim.BioModule):
     """BioModule wrapper for SBML model: Schölzel2020 - Modular Modelica implementation of the Hodgkin-Huxley model of the squid giant axon (v1.1.0)."""
 
     def __init__(self, model_path: str = "data/MODEL2103050003.xml", min_dt: float = 0.01) -> None:

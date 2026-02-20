@@ -23,7 +23,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/BIOMD0000000178
   download_url: https://www.ebi.ac.uk/biomodels/model/download/BIOMD0000000178?filename=BIOMD0000000178_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.lebeda2008_botn_paralysis_4_step_model_biomd0000000178_model:Lebeda2008BotnParalysis4StepModelBiomd0000000178Model
   init_kwargs:
     model_path: data/BIOMD0000000178.xml

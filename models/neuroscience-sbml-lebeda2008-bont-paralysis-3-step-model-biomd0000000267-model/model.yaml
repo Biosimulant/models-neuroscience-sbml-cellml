@@ -23,7 +23,7 @@ upstream:
   original_url: https://www.ebi.ac.uk/biomodels/BIOMD0000000267
   download_url: https://www.ebi.ac.uk/biomodels/model/download/BIOMD0000000267?filename=BIOMD0000000267_url.xml
   license: CC0
-bsim:
+biosim:
   entrypoint: src.lebeda2008_bont_paralysis_3_step_model_biomd0000000267_model:Lebeda2008BontParalysis3StepModelBiomd0000000267Model
   init_kwargs:
     model_path: data/BIOMD0000000267.xml
