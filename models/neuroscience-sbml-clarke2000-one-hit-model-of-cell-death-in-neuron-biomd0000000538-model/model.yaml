@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Clarke2000OneHitModelOfCellDeathInNeuronBiomd0000000538Model'
-description: Clarke2000 - One-hit model of cell death inneuronal degenerations This
-  one-hit model fits differentneuronal-death associated diseases for different animalmodels.
-  This model is described in the article
+description: "Clarke2000 - One-hit model of cell death inneuronal degenerations This one-hit model fits differentneuronal-death associated diseases for different animalmodels. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

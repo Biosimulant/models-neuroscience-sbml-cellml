@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Endresen1997SinoatrialactionpotentialModel0912388235Model'
-description: 'This a model from the article: Chaos in weakly-coupled pacemaker cells.
-  Endresen LP. J Theor Biol 1997 Jan 7;184(1):41-50 9039399 , Abstract: A model of
-  the rabbit sinoatrial action potential is intro'
+description: "This a model from the article: Chaos in weakly-coupled pacemaker cells. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

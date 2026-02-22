@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Faber2000LrmodelCardiacmyocytesModel0912153452Model'
-description: 'This a model from the article: Action potential and contractility changes
-  in [Na(+)](i) overloaded cardiacmyocytes: a simulation study. Faber GM, Rudy Y.
-  Biophys J 2000 May;78(5):2392-404 10777735 , A'
+description: "This a model from the article: Action potential and contractility changes in [Na(+)](i) overloaded cardiacmyocytes: a simulation study. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

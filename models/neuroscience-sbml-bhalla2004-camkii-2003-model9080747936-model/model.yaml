@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Bhalla2004Camkii2003Model9080747936Model'
-description: 'Model of regulation of CaMKII by Calcium, including parallel excitatory
-  input from CaM and inhibitory input from PP1 as regulated by Calcineurin and PKA.
-  Cell type: neuronal. &lt;br''&gt;&lt;a href = '''
+description: "Model of regulation of CaMKII by Calcium, including parallel excitatory input from CaM and inhibitory input from PP1 as regulated by Calcineurin and PKA. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

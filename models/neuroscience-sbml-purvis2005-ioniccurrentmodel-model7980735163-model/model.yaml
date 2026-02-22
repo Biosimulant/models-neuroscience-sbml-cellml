@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Purvis2005IoniccurrentmodelModel7980735163Model'
-description: 'This a model from the article: Ionic current model of a hypoglossal
-  motoneuron. Purvis LK, Butera RJ. J Neurophysiol. 2005:93(2):723-33. 18068197 ,
-  Abstract: We have developed a single-compartment, el'
+description: "This a model from the article: Ionic current model of a hypoglossal motoneuron. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

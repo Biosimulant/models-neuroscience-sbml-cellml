@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: D1LtpTimeWindowModel1603270000Model'
-description: 'Nair2016 - Integration of calcium anddopamine signals by D1R-expressing
-  medium-sized spiny neurons This model is described in the article: Role of DARPP-32
-  and ARPP-21 in the Emergence of Temporal Con'
+description: "Nair2016 - Integration of calcium anddopamine signals by D1R-expressing medium-sized spiny neurons This model is described in the article: Role of DARPP-32 and ARPP-21 in the Emergence of Temporal Con. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

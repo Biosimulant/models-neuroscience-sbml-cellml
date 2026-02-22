@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Tseng2012CircadianClockOfNCrassaBiomd0000000437Model'
-description: Tseng2012 - Circadian clock of N.crassa A comprehensive model of the
-  circardian clock of fungal Neurospora crassa , which encompasses existing knowledge
-  of the biochemistry of Neurospora clock, is des
+description: "Tseng2012 - Circadian clock of N.crassa A comprehensive model of the circardian clock of fungal Neurospora crassa , which encompasses existing knowledge of the biochemistry of Neurospora clock, is des. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

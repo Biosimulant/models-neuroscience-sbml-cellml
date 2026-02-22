@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Lebeda2008BontParalysis3StepModelBiomd0000000267Model'
-description: 'Lebeda2008 - BoNT paralysis (3 step model) The onset of paralysis of
-  skeletal muscles induced by BoNT/A at the isolated rat neuromuscular junction is
-  describing in the model. This is the 3-step model '
+description: "Lebeda2008 - BoNT paralysis (3 step model) The onset of paralysis of skeletal muscles induced by BoNT/A at the isolated rat neuromuscular junction is describing in the model. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

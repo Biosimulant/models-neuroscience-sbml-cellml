@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Voliotis2019GnrhPulseGenerationBiomd0000000931Model'
-description: Fertility critically depends on the gonadotropin-releasing hormone (GnRH)
-  pulse generator, a neural construct comprised of hypothalamic neurons coexpressing
-  kisspeptin, neurokoinin-B and dynorphin. He
+description: "Fertility critically depends on the gonadotropin-releasing hormone (GnRH) pulse generator, a neural construct comprised of hypothalamic neurons coexpressing kisspeptin, neurokoinin-B and dynorphin. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

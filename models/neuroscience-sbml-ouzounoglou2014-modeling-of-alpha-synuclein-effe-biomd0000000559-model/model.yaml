@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Ouzounoglou2014ModelingOfAlphaSynucleinEffeBiomd0000000559Model'
-description: 'Ouzounoglou2014 - Modeling of alpha-synucleineffects on neuronal homeostasis
-  This model is described in the article: In silico modeling of the effects of alpha-synuclein
-  oligomerization on dopaminergi'
+description: "Ouzounoglou2014 - Modeling of alpha-synucleineffects on neuronal homeostasis This model is described in the article: In silico modeling of the effects of alpha-synuclein oligomerization on dopaminergi. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

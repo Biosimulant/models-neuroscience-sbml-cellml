@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Vasalou2010PacemakerNeuronScnBiomd0000000246Model'
-description: 'This the single cell model from the article: A multiscale model to investigate
-  circadian rhythmicity of pacemaker neurons in the suprachiasmatic nucleus. Vasalou
-  C, Henson MA. PLoS Comput Biol 2010 Ma'
+description: "This the single cell model from the article: A multiscale model to investigate circadian rhythmicity of pacemaker neurons in the suprachiasmatic nucleus. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

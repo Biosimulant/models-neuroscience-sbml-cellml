@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Kuroda2001NoCgmpPathwayModel4780181279Model'
-description: This model of sGC is based on the paper by Kuroda S. et al. J Neurosci.
-  (2001) 21(15):5693-702 . This models features the activation of sGC by NO, synthesis
-  of cGMP, activity of PKG and PP2A in the sy
+description: "This model of sGC is based on the paper by Kuroda S. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

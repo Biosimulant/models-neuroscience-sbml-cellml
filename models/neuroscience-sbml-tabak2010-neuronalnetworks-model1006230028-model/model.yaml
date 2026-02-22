@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Tabak2010NeuronalnetworksModel1006230028Model'
-description: 'This a model from the article: Mechanism for the universal pattern of
-  activity in developing neuronal networks. Tabak J, Mascagni M, Bertram R. J Neurophysiol
-  2010 Feb 17; [Epub ahead of print] 201643'
+description: "This a model from the article: Mechanism for the universal pattern of activity in developing neuronal networks. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

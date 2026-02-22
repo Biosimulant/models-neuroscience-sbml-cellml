@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Lebeda2008BotnParalysis4StepModelBiomd0000000178Model'
-description: Lebeda2008 - BoTN Paralysis (4 stepmodel) The onset of paralysis of skeletal
-  muscles induced by BoNT/A at the isolated rat neuromuscular junction is described
-  in this model. This model is the extended
+description: "Lebeda2008 - BoTN Paralysis (4 stepmodel) The onset of paralysis of skeletal muscles induced by BoNT/A at the isolated rat neuromuscular junction is described in this model. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

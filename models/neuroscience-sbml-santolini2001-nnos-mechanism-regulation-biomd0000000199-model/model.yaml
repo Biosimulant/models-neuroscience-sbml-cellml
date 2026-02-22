@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Santolini2001NnosMechanismRegulationBiomd0000000199Model'
-description: This is a model of neuronal Nitric Oxide Synthase expressed in Escherichia
-  coli based on Santolini J. et al. J Biol Chem. (2001) 276(2):1233-43 . Differing
-  from the article, oxygen explicitly included
+description: "This is a model of neuronal Nitric Oxide Synthase expressed in Escherichia coli based on Santolini J. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

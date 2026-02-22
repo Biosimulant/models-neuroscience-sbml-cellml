@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Model8745087450Model'
-description: Squid axon (Hodgkin, Huxley 1952) (SBML, XPP, other)
+description: "Squid axon (Hodgkin, Huxley 1952) (SBML, XPP, other). It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

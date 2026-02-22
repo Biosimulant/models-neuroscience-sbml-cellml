@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Bhalla2004MapkNetwork2003Model9081220742Model'
-description: This is a network model of many pathways present at the neuronal synapse.
-  The network has properties of temporal tuning as well as steady-state computational
-  properties. In its default form the networ
+description: "This is a network model of many pathways present at the neuronal synapse. The network has properties of temporal tuning as well as steady-state computational properties."
 standard: other
 tags:
 - neuroscience

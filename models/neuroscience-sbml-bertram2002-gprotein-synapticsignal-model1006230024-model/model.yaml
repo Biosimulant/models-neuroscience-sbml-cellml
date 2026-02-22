@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Bertram2002GproteinSynapticsignalModel1006230024Model'
-description: 'This a model from the article: Role for G protein Gbetagamma isoform
-  specificity in synaptic signal processing:a computational study. Bertram R, Arnot
-  MI, Zamponi GW. J Neurophysiol 2002 May;87(5):261'
+description: "This a model from the article: Role for G protein Gbetagamma isoform specificity in synaptic signal processing:a computational study. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Maleckar2008AtrialmyocyteModel9810152478Model'
-description: 'This a model from the article: Mathematical simulations of ligand-gated
-  and cell-type specific effects on the action potential of human atrium. Maleckar
-  MM, Greenstein JL, Trayanova NA, Giles WR. Prog'
+description: "This a model from the article: Mathematical simulations of ligand-gated and cell-type specific effects on the action potential of human atrium. Maleckar MM, Greenstein JL, Trayanova NA, Giles WR."
 standard: other
 tags:
 - neuroscience

@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Butera1999BurstingPacemakerNeuronModel1Model7891585309Model'
-description: "This is the model without the slow potassium current, model 1, described\
-  \ in the article: Models of respiratory rhythm generation in the pre-B\xF6tzinger\
-  \ complex. I. Bursting pacemaker neurons. Butera RJ "
+description: "This is the model without the slow potassium current, model 1, described in the article: Models of respiratory rhythm generation in the pre-B\u00f6tzinger complex. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

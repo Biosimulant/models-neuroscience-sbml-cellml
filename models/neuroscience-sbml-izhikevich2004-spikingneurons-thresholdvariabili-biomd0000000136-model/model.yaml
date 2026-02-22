@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Izhikevich2004SpikingneuronsThresholdvariabiliBiomd0000000136Model'
-description: 'This a model from the article: Which model to use for cortical spiking
-  neurons? Izhikevich EM. IEEE Trans Neural Netw. 2004 Sep;15(5):1063-70. 15484883
-  , Abstract: We discuss the biological plausibili'
+description: "This a model from the article: Which model to use for cortical spiking neurons? It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

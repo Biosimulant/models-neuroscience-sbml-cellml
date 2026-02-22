@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Phillips2003TheMechanismOfRasGtpaseActivatBiomd0000000692Model'
-description: Phillips2003 - The Mechanism of Ras GTPaseActivation by Neurofibromin
-  A mathematical model for Ras-GTPactivation by neurofibromin and the kinetic rates
-  of the relevantreactions. This model is describe
+description: "Phillips2003 - The Mechanism of Ras GTPaseActivation by Neurofibromin A mathematical model for Ras-GTPactivation by neurofibromin and the kinetic rates of the relevantreactions. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

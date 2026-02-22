@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Proctor2010Uchl1ProteinAggregationBiomd0000000293Model'
-description: 'This a model from the article: Modelling the Role of UCH-L1 on Protein
-  Aggregation inAge-Related Neurodegeneration. Proctor CJ, Tangeman PJ, Ardley HC.
-  PLoS One. 2010 Oct 6;5(10):e13175 20949132 , Abs'
+description: "This a model from the article: Modelling the Role of UCH-L1 on Protein Aggregation inAge-Related Neurodegeneration. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

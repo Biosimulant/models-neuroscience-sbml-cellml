@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Leloup1999CircadianrhythmsNeurosporaBiomd0000000299Model'
-description: 'This a model from the article: Limit cycle models for circadian rhythms
-  based on transcriptional regulation in Drosophila and Neurospora. Leloup JC, Gonze
-  D, Goldbeter A. J Biol Rhythms. 1999 Dec;14(6'
+description: "This a model from the article: Limit cycle models for circadian rhythms based on transcriptional regulation in Drosophila and Neurospora. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

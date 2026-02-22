@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Morris2008FittingProteinAggregationDataViaBiomd0000000567Model'
-description: 'Morris2008 - Fitting protein aggregation datavia F-W 2-step mechanism
-  This model is described in the article: Fitting neurological protein aggregation
-  kinetic data via a 2-step, minimal/''Ockham''s razo'
+description: "Morris2008 - Fitting protein aggregation datavia F-W 2-step mechanism This model is described in the article: Fitting neurological protein aggregation kinetic data via a 2-step, minimal/'Ockham's razo. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

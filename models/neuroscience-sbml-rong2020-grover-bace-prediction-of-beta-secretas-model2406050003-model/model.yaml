@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Rong2020GroverBacePredictionOfBetaSecretasModel2406050003Model'
-description: Prediction of Beta-secretase 1 (BACE-1) inhibition. BACE-1 is expressed
-  mainly in neurons and has been involved in the development of Alzheimer's disease.
-  This model has been trained on the BACE datas
+description: "Prediction of Beta-secretase 1 (BACE-1) inhibition. BACE-1 is expressed mainly in neurons and has been involved in the development of Alzheimer's disease."
 standard: other
 tags:
 - neuroscience

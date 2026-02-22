@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Hernjak2005CalciumSignalingBiomd0000000162Model'
-description: The model reproduces the time profiles of Calcium in the spine and dendrites
-  as depicted in Fig 8 and Fig 9 of the paper for CF activation. The model was reproduced
-  using MathSBML. Please note that th
+description: "The model reproduces the time profiles of Calcium in the spine and dendrites as depicted in Fig 8 and Fig 9 of the paper for CF activation. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
 - neuroscience

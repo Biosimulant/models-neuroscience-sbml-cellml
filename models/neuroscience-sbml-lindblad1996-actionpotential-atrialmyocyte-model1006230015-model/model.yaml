@@ -1,8 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Lindblad1996ActionpotentialAtrialmyocyteModel1006230015Model'
-description: 'This a model from the article: A model of the action potential and underlying
-  membrane currents in a rabbitatrial cell. Lindblad DS, Murphey CR, Clark JW, Giles
-  WR. Am J Physiol 1996 Oct;271(4 Pt 2):H'
+description: "This a model from the article: A model of the action potential and underlying membrane currents in a rabbitatrial cell. Lindblad DS, Murphey CR, Clark JW, Giles WR."
 standard: other
 tags:
 - neuroscience
