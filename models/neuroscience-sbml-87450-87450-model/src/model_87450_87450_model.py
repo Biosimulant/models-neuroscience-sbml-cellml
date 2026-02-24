@@ -31,7 +31,15 @@ class Sbml87450(biosim.BioModule):
     def setup(self, config: Optional[Dict[str, Any]] = None) -> None:
         import tellurium as te
 
-        self._rr = te.loadSBMLModel(str(self._model_path))
+        model_file = self._model_path
+        if model_file.is_dir():
+            candidates = (
+                list(model_file.rglob("*.sbml"))
+                + list(model_file.rglob("*.xml"))
+            )
+            if candidates:
+                model_file = candidates[0]
+        self._rr = te.loadSBMLModel(str(model_file))
         self._species_ids = list(self._rr.getFloatingSpeciesIds())
         self._t = 0.0
 

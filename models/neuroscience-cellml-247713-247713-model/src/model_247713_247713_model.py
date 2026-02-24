@@ -30,9 +30,18 @@ class Cellml247713(biosim.BioModule):
     def setup(self, config: Optional[Dict[str, Any]] = None) -> None:
         import libcellml
 
+        model_file = self._model_path
+        if model_file.is_dir():
+            # Search for CellML file inside directory
+            candidates = list(model_file.rglob("*.cellml")) + list(model_file.rglob("*.cellml.xml"))
+            if not candidates:
+                candidates = list(model_file.rglob("*.xml"))
+            if candidates:
+                model_file = candidates[0]
+
         parser = libcellml.Parser()
         self._model = parser.parseModel(
-            self._model_path.read_text(encoding="utf-8")
+            model_file.read_text(encoding="utf-8")
         )
         self._t = 0.0
 
