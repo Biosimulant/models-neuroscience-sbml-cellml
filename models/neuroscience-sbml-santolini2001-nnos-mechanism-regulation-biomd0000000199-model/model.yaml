@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Santolini2001NnosMechanismRegulationBiomd0000000199Model'
+title: "Santolini2001_nNOS_Mechanism_Regulation"
 description: "This is a model of neuronal Nitric Oxide Synthase expressed in Escherichia coli based on Santolini J. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:

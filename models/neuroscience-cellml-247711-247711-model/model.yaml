@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Model247711247711Model'
+title: "247711"
 description: "Universal feature of developing networks (Tabak et al 2010) (CellML). It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:

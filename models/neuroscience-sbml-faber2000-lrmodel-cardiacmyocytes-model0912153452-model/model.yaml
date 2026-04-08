@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Faber2000LrmodelCardiacmyocytesModel0912153452Model'
+title: "Faber2000_LRmodel_CardiacMyocytes"
 description: "This a model from the article: Action potential and contractility changes in [Na(+)](i) overloaded cardiacmyocytes: a simulation study. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:

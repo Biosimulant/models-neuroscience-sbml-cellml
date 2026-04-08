@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Izhikevich2003SpikingneuronBiomd0000000127Model'
+title: "Izhikevich2003_SpikingNeuron"
 description: "The model is according to the paper Simple Model of Spiking Neurons In this paper, a simple spiking model is presented that is as biologically plausible as the Hodgkin-Huxley model, yet as computation. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:

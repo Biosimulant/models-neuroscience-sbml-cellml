@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Akman2008CircadianClockModel1Biomd0000000295Model'
+title: "Akman2008_Circadian_Clock_Model1"
 description: "This a model from the article: Isoform switching facilitates period control in the Neurospora crassa circadian clock. Akman OE, Locke JC, Tang S, Carr\u00e9 I, Millar AJ, Rand DA Mol."
 standard: other
 tags:

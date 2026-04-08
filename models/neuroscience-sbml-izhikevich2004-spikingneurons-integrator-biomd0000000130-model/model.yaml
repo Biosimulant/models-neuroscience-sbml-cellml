@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Izhikevich2004SpikingneuronsIntegratorBiomd0000000130Model'
+title: "Izhikevich2004_SpikingNeurons_integrator"
 description: "This a model from the article: Which model to use for cortical spiking neurons? Izhikevich, EM Neural Networks, IEEE Transactions on 2004:15(5):1063-1070 15484883 , Abstract: We discuss the biological."
 standard: other
 tags:

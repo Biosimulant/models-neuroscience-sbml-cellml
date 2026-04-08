@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Macgregor2005HypothalamicsystemsModel9811206584Model'
+title: "MacGregor2005_HypothalamicSystems"
 description: "This a model from the article: Modelling the hypothalamic control of growth hormone secretion. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:

@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Kuroda2001NoCgmpPathwayModel4780181279Model'
+title: "Kuroda2001_NO_cGMP_Pathway"
 description: "This model of sGC is based on the paper by Kuroda S. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:

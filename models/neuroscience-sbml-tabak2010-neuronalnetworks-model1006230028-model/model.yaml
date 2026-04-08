@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Tabak2010NeuronalnetworksModel1006230028Model'
+title: "Tabak2010_NeuronalNetworks"
 description: "This a model from the article: Mechanism for the universal pattern of activity in developing neuronal networks. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:

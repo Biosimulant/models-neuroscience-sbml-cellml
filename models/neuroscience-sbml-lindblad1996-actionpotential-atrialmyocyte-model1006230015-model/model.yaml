@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Lindblad1996ActionpotentialAtrialmyocyteModel1006230015Model'
+title: "Lindblad1996_ActionPotential_AtrialMyocyte"
 description: "This a model from the article: A model of the action potential and underlying membrane currents in a rabbitatrial cell. Lindblad DS, Murphey CR, Clark JW, Giles WR."
 standard: other
 tags:

@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Model247713247713Model'
+title: "247713"
 description: "A multiscale approach to analyze circadian rhythms (Vasalou & Henson, 2010) (CellML). It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:

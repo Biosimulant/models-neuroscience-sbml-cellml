@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Wang1996SynapticInhibitionTwoNeuronBiomd0000000302Model'
+title: "Wang1996_Synaptic_Inhibition_Two_Neuron"
 description: "This is a model of one presynaptic and one postsynaptic cell, as described in the article: Gamma oscillation by synaptic inhibition in a hippocampal interneuronal network model. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:

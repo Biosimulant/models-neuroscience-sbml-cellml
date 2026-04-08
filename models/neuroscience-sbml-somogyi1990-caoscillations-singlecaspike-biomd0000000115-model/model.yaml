@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Somogyi1990CaoscillationsSinglecaspikeBiomd0000000115Model'
+title: "Somogyi1990_CaOscillations_SingleCaSpike"
 description: "Another model from Hormone induced Calcium Oscillations in Liver Cells Can Be Explained by a Simply One Pool Model. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:

@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Purvis2005IoniccurrentmodelModel7980735163Model'
+title: "Purvis2005_IonicCurrentModel"
 description: "This a model from the article: Ionic current model of a hypoglossal motoneuron. It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:

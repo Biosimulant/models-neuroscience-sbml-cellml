@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Smolen2018ParadoxicalLtpMaintenanceWithInhiBiomd0000000853Model'
+title: "Smolen2018 - Paradoxical LTP maintenance with inhibition of protein synthesis and the proteasome"
 description: "This is a mathematical model describing the formation of long-term potentiation (LTP) at the Schaffer collateral of CA1 pyramidal cell synapse. The model consists of nine ordinary differential equatio."
 standard: other
 tags:

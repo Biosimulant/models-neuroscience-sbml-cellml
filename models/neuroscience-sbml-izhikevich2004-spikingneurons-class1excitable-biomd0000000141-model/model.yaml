@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Izhikevich2004SpikingneuronsClass1excitableBiomd0000000141Model'
+title: "Izhikevich2004_SpikingNeurons_Class1Excitable"
 description: "This a model from the article: Which model to use for cortical spiking neurons? It can be used to explore neural activity dynamics and compare response patterns across conditions."
 standard: other
 tags:
