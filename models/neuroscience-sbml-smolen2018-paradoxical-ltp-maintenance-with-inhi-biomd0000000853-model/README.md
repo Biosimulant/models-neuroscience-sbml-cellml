@@ -11,14 +11,13 @@ This is a mathematical model describing the formation of long-term potentiation 
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-smolen2018-paradoxical-ltp-maintenance-with-inhi-biomd0000000853-model
     alias: model
-    manifest_path: models/neuroscience-sbml-smolen2018-paradoxical-ltp-maintenance-with-inhi-biomd0000000853-model/model.yaml
 ```
 
 ## Tags

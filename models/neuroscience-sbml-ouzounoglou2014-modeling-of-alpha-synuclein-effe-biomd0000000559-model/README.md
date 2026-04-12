@@ -11,14 +11,13 @@ Ouzounoglou2014 - Modeling of alpha-synucleineffects on neuronal homeostasis Thi
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-ouzounoglou2014-modeling-of-alpha-synuclein-effe-biomd0000000559-model
     alias: model
-    manifest_path: models/neuroscience-sbml-ouzounoglou2014-modeling-of-alpha-synuclein-effe-biomd0000000559-model/model.yaml
 ```
 
 ## Tags

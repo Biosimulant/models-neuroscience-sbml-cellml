@@ -11,14 +11,13 @@ This is a model of one presynaptic and one postsynaptic cell, as described in th
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-wang1996-synaptic-inhibition-two-neuron-biomd0000000302-model
     alias: model
-    manifest_path: models/neuroscience-sbml-wang1996-synaptic-inhibition-two-neuron-biomd0000000302-model/model.yaml
 ```
 
 ## Tags

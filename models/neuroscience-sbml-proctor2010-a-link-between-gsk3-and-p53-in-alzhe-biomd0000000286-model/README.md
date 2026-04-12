@@ -11,14 +11,13 @@ This is the model described the article: GSK3 and p53 - is there a link in Alzhe
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-proctor2010-a-link-between-gsk3-and-p53-in-alzhe-biomd0000000286-model
     alias: model
-    manifest_path: models/neuroscience-sbml-proctor2010-a-link-between-gsk3-and-p53-in-alzhe-biomd0000000286-model/model.yaml
 ```
 
 ## Tags

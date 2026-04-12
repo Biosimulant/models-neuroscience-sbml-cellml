@@ -11,14 +11,13 @@ This model of sGC is based on the paper by Kuroda S. et al. J Neurosci. (2001) 2
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-kuroda2001-no-cgmp-pathway-model4780181279-model
     alias: model
-    manifest_path: models/neuroscience-sbml-kuroda2001-no-cgmp-pathway-model4780181279-model/model.yaml
 ```
 
 ## Tags

@@ -11,14 +11,13 @@ Morris2008 - Fitting protein aggregation datavia F-W 2-step mechanism This model
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-morris2008-fitting-protein-aggregation-data-via-biomd0000000567-model
     alias: model
-    manifest_path: models/neuroscience-sbml-morris2008-fitting-protein-aggregation-data-via-biomd0000000567-model/model.yaml
 ```
 
 ## Tags

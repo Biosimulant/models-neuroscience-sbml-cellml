@@ -11,14 +11,13 @@ This a model from the article: Limit cycle models for circadian rhythms based on
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-leloup1999-circadianrhythms-neurospora-biomd0000000299-model
     alias: model
-    manifest_path: models/neuroscience-sbml-leloup1999-circadianrhythms-neurospora-biomd0000000299-model/model.yaml
 ```
 
 ## Tags

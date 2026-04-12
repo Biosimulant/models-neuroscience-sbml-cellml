@@ -11,14 +11,13 @@ Model of regulation of CaMKII by Calcium, including parallel excitatory input fr
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-bhalla2004-camkii-2003-model9080747936-model
     alias: model
-    manifest_path: models/neuroscience-sbml-bhalla2004-camkii-2003-model9080747936-model/model.yaml
 ```
 
 ## Tags

@@ -11,14 +11,13 @@ This modular implementation of the Hodgkin-Huxley equations has two aims: 1) Inc
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-sch-lzel2020-modular-modelica-implementation-of-model2103050003-model
     alias: model
-    manifest_path: models/neuroscience-sbml-sch-lzel2020-modular-modelica-implementation-of-model2103050003-model/model.yaml
 ```
 
 ## Tags

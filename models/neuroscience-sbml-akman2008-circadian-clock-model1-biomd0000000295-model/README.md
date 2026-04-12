@@ -11,14 +11,13 @@ This a model from the article: Isoform switching facilitates period control in t
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-akman2008-circadian-clock-model1-biomd0000000295-model
     alias: model
-    manifest_path: models/neuroscience-sbml-akman2008-circadian-clock-model1-biomd0000000295-model/model.yaml
 ```
 
 ## Tags

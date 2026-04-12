@@ -11,14 +11,13 @@ The model is according to the paper Simple Model of Spiking Neurons In this pape
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-izhikevich2003-spikingneuron-biomd0000000127-model
     alias: model
-    manifest_path: models/neuroscience-sbml-izhikevich2003-spikingneuron-biomd0000000127-model/model.yaml
 ```
 
 ## Tags

@@ -11,14 +11,13 @@ This a model from the article: Ionic current model of a hypoglossal motoneuron. 
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-purvis2005-ioniccurrentmodel-model7980735163-model
     alias: model
-    manifest_path: models/neuroscience-sbml-purvis2005-ioniccurrentmodel-model7980735163-model/model.yaml
 ```
 
 ## Tags

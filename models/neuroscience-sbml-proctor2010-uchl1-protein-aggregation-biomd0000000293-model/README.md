@@ -11,14 +11,13 @@ This a model from the article: Modelling the Role of UCH-L1 on Protein Aggregati
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-proctor2010-uchl1-protein-aggregation-biomd0000000293-model
     alias: model
-    manifest_path: models/neuroscience-sbml-proctor2010-uchl1-protein-aggregation-biomd0000000293-model/model.yaml
 ```
 
 ## Tags

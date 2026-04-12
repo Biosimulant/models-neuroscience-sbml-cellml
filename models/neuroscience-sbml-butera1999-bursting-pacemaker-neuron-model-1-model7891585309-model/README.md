@@ -11,14 +11,13 @@ This is the model without the slow potassium current, model 1, described in the 
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-butera1999-bursting-pacemaker-neuron-model-1-model7891585309-model
     alias: model
-    manifest_path: models/neuroscience-sbml-butera1999-bursting-pacemaker-neuron-model-1-model7891585309-model/model.yaml
 ```
 
 ## Tags

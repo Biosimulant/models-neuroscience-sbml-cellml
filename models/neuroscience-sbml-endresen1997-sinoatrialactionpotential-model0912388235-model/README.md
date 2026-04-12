@@ -11,14 +11,13 @@ This a model from the article: Chaos in weakly-coupled pacemaker cells. Endresen
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-endresen1997-sinoatrialactionpotential-model0912388235-model
     alias: model
-    manifest_path: models/neuroscience-sbml-endresen1997-sinoatrialactionpotential-model0912388235-model/model.yaml
 ```
 
 ## Tags

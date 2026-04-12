@@ -11,14 +11,13 @@ This is the original model from Richard FitzHugh, which led the famous FitzHughâ
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-fitzhugh1961-nervemembrane-biomd0000000346-model
     alias: model
-    manifest_path: models/neuroscience-sbml-fitzhugh1961-nervemembrane-biomd0000000346-model/model.yaml
 ```
 
 ## Tags

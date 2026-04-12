@@ -11,14 +11,13 @@ This is a model of neuronal Nitric Oxide Synthase expressed in Escherichia coli 
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-santolini2001-nnos-mechanism-regulation-biomd0000000199-model
     alias: model
-    manifest_path: models/neuroscience-sbml-santolini2001-nnos-mechanism-regulation-biomd0000000199-model/model.yaml
 ```
 
 ## Tags

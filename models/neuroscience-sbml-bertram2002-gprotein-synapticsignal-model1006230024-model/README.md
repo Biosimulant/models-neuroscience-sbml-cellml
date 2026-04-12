@@ -11,14 +11,13 @@ This a model from the article: Role for G protein Gbetagamma isoform specificity
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-bertram2002-gprotein-synapticsignal-model1006230024-model
     alias: model
-    manifest_path: models/neuroscience-sbml-bertram2002-gprotein-synapticsignal-model1006230024-model/model.yaml
 ```
 
 ## Tags

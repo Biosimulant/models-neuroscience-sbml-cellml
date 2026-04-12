@@ -11,14 +11,13 @@ Phillips2003 - The Mechanism of Ras GTPaseActivation by Neurofibromin A mathemat
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-phillips2003-the-mechanism-of-ras-gtpase-activat-biomd0000000692-model
     alias: model
-    manifest_path: models/neuroscience-sbml-phillips2003-the-mechanism-of-ras-gtpase-activat-biomd0000000692-model/model.yaml
 ```
 
 ## Tags

@@ -11,14 +11,13 @@ This a model from the article: Mathematical models of the electrical action pote
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-stewart2009-actionpotential-purkinjefibrecells-model1006230012-model
     alias: model
-    manifest_path: models/neuroscience-sbml-stewart2009-actionpotential-purkinjefibrecells-model1006230012-model/model.yaml
 ```
 
 ## Tags

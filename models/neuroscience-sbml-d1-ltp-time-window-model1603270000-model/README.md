@@ -11,14 +11,13 @@ Nair2016 - Integration of calcium anddopamine signals by D1R-expressing medium-s
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-d1-ltp-time-window-model1603270000-model
     alias: model
-    manifest_path: models/neuroscience-sbml-d1-ltp-time-window-model1603270000-model/model.yaml
 ```
 
 ## Tags

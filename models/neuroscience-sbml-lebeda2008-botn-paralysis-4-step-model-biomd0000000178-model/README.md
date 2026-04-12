@@ -11,14 +11,13 @@ Lebeda2008 - BoTN Paralysis (4 stepmodel) The onset of paralysis of skeletal mus
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-lebeda2008-botn-paralysis-4-step-model-biomd0000000178-model
     alias: model
-    manifest_path: models/neuroscience-sbml-lebeda2008-botn-paralysis-4-step-model-biomd0000000178-model/model.yaml
 ```
 
 ## Tags

@@ -11,14 +11,13 @@ This a model from the article: Mathematical simulations of ligand-gated and cell
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-maleckar2008-atrialmyocyte-model9810152478-model
     alias: model
-    manifest_path: models/neuroscience-sbml-maleckar2008-atrialmyocyte-model9810152478-model/model.yaml
 ```
 
 ## Tags

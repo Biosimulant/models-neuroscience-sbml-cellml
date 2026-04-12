@@ -11,14 +11,13 @@ Lebeda2008 - BoNT paralysis (3 step model) The onset of paralysis of skeletal mu
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-lebeda2008-bont-paralysis-3-step-model-biomd0000000267-model
     alias: model
-    manifest_path: models/neuroscience-sbml-lebeda2008-bont-paralysis-3-step-model-biomd0000000267-model/model.yaml
 ```
 
 ## Tags

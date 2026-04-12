@@ -11,14 +11,13 @@ The model reproduces the time profiles of Calcium in the spine and dendrites as 
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-hernjak2005-calcium-signaling-biomd0000000162-model
     alias: model
-    manifest_path: models/neuroscience-sbml-hernjak2005-calcium-signaling-biomd0000000162-model/model.yaml
 ```
 
 ## Tags

@@ -11,14 +11,13 @@ This a model from the article: Which model to use for cortical spiking neurons? 
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-izhikevich2004-spikingneurons-spikelatency-biomd0000000134-model
     alias: model
-    manifest_path: models/neuroscience-sbml-izhikevich2004-spikingneurons-spikelatency-biomd0000000134-model/model.yaml
 ```
 
 ## Tags

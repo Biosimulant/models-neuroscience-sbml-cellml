@@ -11,14 +11,13 @@ This a model from the article: Mechanism for the universal pattern of activity i
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-tabak2010-neuronalnetworks-model1006230028-model
     alias: model
-    manifest_path: models/neuroscience-sbml-tabak2010-neuronalnetworks-model1006230028-model/model.yaml
 ```
 
 ## Tags

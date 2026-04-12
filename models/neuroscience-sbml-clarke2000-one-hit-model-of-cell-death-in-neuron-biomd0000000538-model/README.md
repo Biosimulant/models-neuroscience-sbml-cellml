@@ -11,14 +11,13 @@ Clarke2000 - One-hit model of cell death inneuronal degenerations This one-hit m
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-clarke2000-one-hit-model-of-cell-death-in-neuron-biomd0000000538-model
     alias: model
-    manifest_path: models/neuroscience-sbml-clarke2000-one-hit-model-of-cell-death-in-neuron-biomd0000000538-model/model.yaml
 ```
 
 ## Tags

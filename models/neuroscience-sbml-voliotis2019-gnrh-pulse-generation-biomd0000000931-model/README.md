@@ -11,14 +11,13 @@ Fertility critically depends on the gonadotropin-releasing hormone (GnRH) pulse 
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-voliotis2019-gnrh-pulse-generation-biomd0000000931-model
     alias: model
-    manifest_path: models/neuroscience-sbml-voliotis2019-gnrh-pulse-generation-biomd0000000931-model/model.yaml
 ```
 
 ## Tags

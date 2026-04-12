@@ -11,14 +11,13 @@ This a model from the article: A model of the action potential and underlying me
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-lindblad1996-actionpotential-atrialmyocyte-model1006230015-model
     alias: model
-    manifest_path: models/neuroscience-sbml-lindblad1996-actionpotential-atrialmyocyte-model1006230015-model/model.yaml
 ```
 
 ## Tags

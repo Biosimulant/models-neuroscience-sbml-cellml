@@ -11,14 +11,13 @@ This a model from the article: Action potential and contractility changes in [Na
 
 ## Usage
 
-This model was auto-generated from the biomodels_ebi repository.
+This model was auto-generated from the BioModels EBI catalog.
 
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-sbml-faber2000-lrmodel-cardiacmyocytes-model0912153452-model
     alias: model
-    manifest_path: models/neuroscience-sbml-faber2000-lrmodel-cardiacmyocytes-model0912153452-model/model.yaml
 ```
 
 ## Tags
